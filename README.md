@@ -1,69 +1,19 @@
-<div align="center">
-  <h2> 
-    Hello world! I am xyanua. 👾
-  </h2>
-</div>
-
-### 🕵️‍♂️ &nbsp;[About Me]
-
-I'm a Cybersecurity Enthusiast 🛡️  
-💻 OSINT, pentesting, and hacking my way to knowledge  
-📖 Self-learning through CTFs, projects, and communities  
-🌐 Obsessed with network security, malware analysis, and reverse engineering  
-🎧 When not in the lab, I enjoy synthwave and retro gaming  
-🌍 Defender by day, red-teamer by night  
-🤖 I recently learned more about AI
+# Hi there, I'm xyanua. 👋
 
 ---
 
-### 💻 &nbsp;Tech Stack
+Hi, I'm **xyanua.**, a penetration testing learner with a strong interest in **offensive security** and **system security**.  
+I focus on understanding how systems and applications can be attacked, identifying security vulnerabilities, and learning how to report and mitigate them responsibly. 🔍🛡️
 
-#### ⚙️ Languages & Scripting:
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![C Badge](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-#### 🛠 OS & Tools:
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?logo=kalilinux&logoColor=white&style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-202020?logo=metasploit&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?logo=burpsuite&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white&style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-000000?logo=hydra&logoColor=white&style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-000000?logo=johntheripper&logoColor=white&style=for-the-badge)
 
-#### 🧪 Labs & Environments:
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
-![PwnBox](https://img.shields.io/badge/PwnBox-000000?logo=pwnbox&logoColor=white&style=for-the-badge)
+### ⚙️ Interests:
+- **Web & System Penetration Testing**
+- **Network Security**
+- **Linux for Security Testing**
+- **CTFs & Vulnerable Labs**
+- **Security Analysis & Reporting**
 
----
 
-### 📈 GitHub Stats & Graphs
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsxyanua&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wsxyanua&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsxyanua&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=wsxyanua&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=wsxyanua&limit=5&theme=radical" alt="Contributor Stats" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsxyanua&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-  <br>
-</p>
-
----
-### 🎯 &nbsp;Current Focus
-🔍 Exploiting vulnerable systems in lab environments  
-🔐 Developing CTF challenge solutions  
-🦠 Learning malware analysis and sandboxing  
-🛠️ Automating recon and enumeration with Python and Bash  
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=wsxyanua)
+[![[imxyanua]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=imxyanua&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/imxyanua/github-readme-stats)
