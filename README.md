@@ -17,6 +17,7 @@ I focus on understanding how systems and applications can be attacked, identifyi
 <br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=imxyanua&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imxyanua&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imxyanua&layout=compact&theme=tokyonight)  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imxyanua&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=imxyanua&theme=tokyonight)
+
