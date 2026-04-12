@@ -102,6 +102,3 @@ I'm **[`xyanua.`]**, a hacker & Security Researcher and aspiring Cybersecurity S
 <p align="center">
 <a>🌱</a>
 </p>
-<p align="center">
-  <img src="https://github.com/imxyanua/imxyanua/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
