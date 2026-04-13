@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+xyanua.+%3C3;Welcome+to+my+profile!" alt="Title"></img>
@@ -7,7 +6,11 @@
 
 
 <img width="28%" align='right'>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=imxyanua&label=TARGET+ACCESSED&color=00ff00&style=flat-square" />
+
+</div>
 
 <h2 align="left">
   Hi there
@@ -95,7 +98,8 @@ Focus:
 ---  
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imxyanua&theme=chartreuse-dark&hide_border=true" /> </div>  
 
----
+---  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
