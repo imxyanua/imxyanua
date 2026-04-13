@@ -14,8 +14,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`xyanua.`]**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+xyanua@nothin:~$ whoami
 
+Security Researcher
+Bug Hunter
+Offensive Security Learner
+
+Focus:
+- Web Application Exploitation
+- Malware Analysis & Forensics
+- Vulnerability Research
 
 <details>
   <summary>More about me</summary>
@@ -84,21 +92,10 @@ I'm **[`xyanua.`]**, a hacker & Security Researcher and aspiring Cybersecurity S
   </div>
 </div>
 
+---  
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imxyanua&theme=chartreuse-dark&hide_border=true" /> </div>  
+
 ---
-
-
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=imxyanua&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/imxyanua/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=imxyanua&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/imxyanua/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxyanua&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
-
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-<p align="center">
-<a>🌱</a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
