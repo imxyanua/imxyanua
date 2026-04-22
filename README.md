@@ -1,67 +1,10 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+xyanua.+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-  </a>
-</div>
+# Hi there, im xyanua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
+ 
+I'm a cybersecurity professional with a strong passion for offensive security, threat analysis, and building tools that protect real-world systems. I enjoy breaking things ethically, automating security workflows, and contributing to the security community through research and open-source projects. 
 
-<img width="28%" align='right'>
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=imxyanua&label=TARGET+ACCESSED&color=00ff00&style=flat-square" />
-
-</div>
-
-<h2 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
-xyanua@nothin:~$ whoami
-
-Security Researcher
-Bug Hunter
-Offensive Security Learner
-
-Focus:
-- Web Application Exploitation
-- Malware Analysis & Forensics
-- Vulnerability Research
-
-<details>
-  <summary>More about me</summary>
-
-- **Name**: xyanua
-- **From**: localhost
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
-
-</details>
-<br>
-
----
-
-<h2 id="present_status"> Present Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
-
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
-
----
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-
+ 
+# 🛠 Technical Skills  
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
@@ -92,13 +35,25 @@ Focus:
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
+</div>  
+<br>
+<div align="center">
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=imxyanua&show_icons=true&locale=en&layout=compact" 
+      alt="imxyanua" 
+    />
+  </p>
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=imxyanua&show_icons=true&locale=en" 
+      alt="imxyanua" 
+    />
+  </p>
+  <p>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=imxyanua" 
+      alt="imxyanua" 
+    />
+  </p>
 </div>
-
----  
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=imxyanua&theme=chartreuse-dark&hide_border=true" /> </div>  
-
----  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
