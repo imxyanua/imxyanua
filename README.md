@@ -1,10 +1,10 @@
-# Hi there, i'm xyanua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+## Hi there, i'm xyanua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
  
 I'm a cybersecurity professional with a strong passion for offensive security, threat analysis, and building tools that protect real-world systems. I enjoy breaking things ethically, automating security workflows, and contributing to the security community through research and open-source projects. 
 
  
-# 🛠 Technical Skills  
+## 🛠 Technical Skills  
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
@@ -37,23 +37,27 @@ I'm a cybersecurity professional with a strong passion for offensive security, t
   </div>
 </div>  
 <br>
+
+## Stats
+
 <div align="center">
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=imxyanua&show_icons=true&locale=en&layout=compact" 
-      alt="imxyanua" 
-    />
-  </p>
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=imxyanua&show_icons=true&locale=en" 
-      alt="imxyanua" 
-    />
-  </p>
-  <p>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=imxyanua" 
-      alt="imxyanua" 
-    />
-  </p>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imxyanua&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=340" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imxyanua&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imxyanua&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=imxyanua&theme=github-dark&hide_border=true&area=true&radius=6" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app?username=imxyanua&theme=onestar&column=7&row=1&margin-w=6&margin-h=6&no-frame=true" />
+
 </div>
+
+---
+
