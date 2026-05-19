@@ -15,6 +15,5 @@ I enjoy breaking things ethically, automating security workflows, and contributi
 </picture> 
 <br></br> 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imxyanua&theme=github_dark" /> 
 <img src="https://github-profile-trophy.vercel.app/?username=imxyanua&theme=onestar&no-frame=true&row=1&column=7" /> 
 <img src="https://komarev.com/ghpvc/?username=imxyanua&color=blueviolet" /> 
