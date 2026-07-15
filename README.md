@@ -7,7 +7,7 @@ I enjoy breaking things ethically, automating security workflows, and contributi
 <br></br> 
 
 <p align="center">
-  <img src="./metrics.svg" width="90%">
+  <img src="./metrics.svg" width="100%">
 </p>
 
 
