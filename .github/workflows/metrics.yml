@@ -19,9 +19,7 @@ jobs:
 
           user: imxyanua
           filename: metrics.svg
-
           template: classic
-
           config_timezone: Asia/Ho_Chi_Minh
           config_display: large
 
@@ -32,22 +30,16 @@ jobs:
           # Profile information
           base_hireable: yes
 
-
-          ####################################
           # Contribution calendar
-          ####################################
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-
-          ####################################
           # Programming languages
-          ####################################
           plugin_languages: yes
           plugin_languages_indepth: yes
 
           plugin_languages_limit: 8
-          plugin_languages_sections: recently-used
+          plugin_languages_sections: most-used
 
           plugin_languages_categories: markup, programming
           plugin_languages_threshold: 0%
@@ -55,23 +47,14 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 1000
 
-
-          ####################################
           # Github achievements
-          ####################################
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: C
 
-
-          ####################################
           # Repository information
-          ####################################
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
 
-
-          ####################################
           # Commit identity
-          ####################################
           commits_authoring: imxyanua, xyanua, 32657584+imxyanua@users.noreply.github.com
