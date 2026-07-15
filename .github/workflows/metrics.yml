@@ -16,39 +16,62 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: xyanua
+
+          user: imxyanua
           filename: metrics.svg
+
           template: classic
-          base: header, activity, community, repositories, metadata
+
           config_timezone: Asia/Ho_Chi_Minh
+          config_display: large
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # Base information
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
 
+          # Profile information
+          base_hireable: yes
+
+
+          ####################################
           # Contribution calendar
+          ####################################
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+
+          ####################################
           # Programming languages
+          ####################################
           plugin_languages: yes
           plugin_languages_indepth: yes
+
           plugin_languages_limit: 8
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 1000
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: recently-used
+
+          plugin_languages_categories: markup, programming
           plugin_languages_threshold: 0%
 
-          # More details
-          base_indepth: yes
-          base_hireable: yes
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
+
+
+          ####################################
+          # Github achievements
+          ####################################
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+
+
+          ####################################
+          # Repository information
+          ####################################
           repositories_forks: yes
           repositories_affiliations: owner, collaborator, organization_member
 
-          # Commit aliases
-          commits_authoring: xyanua, imxyanua, 32657584+imxyanua@users.noreply.github.com
+
+          ####################################
+          # Commit identity
+          ####################################
+          commits_authoring: imxyanua, xyanua, 32657584+imxyanua@users.noreply.github.com
