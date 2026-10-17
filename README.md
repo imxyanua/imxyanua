@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=imxyanua&color=blueviolet" /> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 
 ### Hi there, i'm xyanua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
 
